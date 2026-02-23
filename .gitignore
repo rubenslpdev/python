@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 **/.venv/
 **/venv/
+
+## Segredos
+.env
+**/.env
+*.key
+**/.key
