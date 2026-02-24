@@ -1,3 +1,3 @@
-# Python projects
+# Python lab
 
-Studies and Python scripts for automation
+A collection of studies and small scripts in Python for personal use mainly for automation purpose
